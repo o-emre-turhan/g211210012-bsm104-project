@@ -1,0 +1,9 @@
+body::before {
+    display: block;
+    content: '';
+    height: 81px;
+}
+
+.ortala-sldier-resim {
+    text-align: center;
+}
