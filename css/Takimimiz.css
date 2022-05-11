@@ -1,0 +1,9 @@
+body::before {
+    display: block;
+    content: '';
+    height: 81px;
+}
+
+.sinir-bukucu {
+    border-radius: 16px;
+}
