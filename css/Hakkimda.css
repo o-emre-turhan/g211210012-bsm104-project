@@ -3,3 +3,6 @@ body::before {
     content: '';
     height: 81px;
 }
+.sinir-bukucu {
+    border-radius: 16px;
+}
